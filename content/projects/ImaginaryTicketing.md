@@ -1,7 +1,6 @@
 ---
-date: '1'
+date: '2021-03-1'
 title: 'Imaginary Ticketing'
-cover: './demo.png'
 github: 'https://github.com/radatta/ImaginaryTicketing/tree/main'
 external: ''
 tech:
