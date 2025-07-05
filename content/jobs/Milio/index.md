@@ -3,7 +3,7 @@ date: '2025-01-01'
 title: 'Co-Founder & Software Engineer'
 company: 'Milio'
 location: 'Santa Clara, CA'
-range: 'January 2025 - Present'
+range: 'Dec 2024 - Mar 2025'
 url: 'https://www.milio.shop/'
 ---
 

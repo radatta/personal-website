@@ -61,20 +61,17 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Rahul Datta.</h2>;
-  const three = <h3 className="big-heading">I build full-stack web apps.</h3>;
+  const three = <h3 className="big-heading">I build full-stack AI systems.</h3>;
   const four = (
     <>
       <p>
-        I'm a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I'm a Computer Science student at Santa Clara University and
-        co-founder of{' '}
-        <a href="https://www.milio.shop/" target="_blank" rel="noreferrer">
-          Milio
-        </a>
-        , an e-commerce platform for collectibles.
+        I'm an AI/ML engineer currently building large language model (LLM) solutions as a Full
+        Stack AI Engineer at MathGPT. My work focuses on designing, deploying, and optimizing
+        machine learning pipelines and intelligent products that solve real-world problems at scale.
       </p>
     </>
   );
+
   const five = (
     <a className="email-link" href="https://github.com/radatta" target="_blank" rel="noreferrer">
       Check out my GitHub!
