@@ -15,4 +15,4 @@ tech:
   - Bun
 ---
 
-An AI-powered wellness tracker that combines quick mood & energy journaling with semantic search insights and in-browser rehab pose-estimation feedback, all built on a Next.js, Supabase, and Bun stack.
+An AI-powered rehabilitation assistant that provides real-time exercise feedback using advanced pose detection technology all built on a Next.js, Supabase, and Bun stack.
