@@ -13,3 +13,4 @@ export { default as Jobs } from './sections/Jobs';
 export { default as Featured } from './sections/Featured';
 export { default as Projects } from './sections/Projects';
 export { default as Contact } from './sections/contact';
+export { default as Certifications } from './sections/Certifications';

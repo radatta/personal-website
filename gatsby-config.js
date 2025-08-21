@@ -138,6 +138,13 @@ module.exports = {
               },
             },
           },
+          {
+            // Copy linked files (e.g., PDFs) referenced in Markdown to the public folder
+            resolve: 'gatsby-remark-copy-linked-files',
+            options: {
+              destinationDir: 'certifications',
+            },
+          },
         ],
       },
     },
