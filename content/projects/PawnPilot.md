@@ -1,8 +1,8 @@
 ---
-date: '2023-12-05'
+date: '2025-06-19'
 title: 'PawnPilot'
 github: 'https://github.com/radatta/pawn-pilot'
-external: ''
+external: 'https://pawn-pilot.vercel.app'
 tech:
   - Next.js
   - React

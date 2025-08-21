@@ -2,7 +2,7 @@
 date: '2023-08-15'
 title: 'SkillMonitorHQ'
 github: 'https://github.com/FoothillEng/SkillMonitorHQ'
-external: ''
+external: 'https://skill-monitor-hq.vercel.app/'
 tech:
   - Next.js
   - React

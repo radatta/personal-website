@@ -1,5 +1,5 @@
 ---
-date: '2024-06-15'
+date: '2024-09-16'
 title: 'EmergenSee'
 github: 'https://github.com/rayyanh192/inrix-hack24'
 external: 'https://devpost.com/software/emergensee-p34rk9'

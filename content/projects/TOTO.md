@@ -1,5 +1,5 @@
 ---
-date: '2024-02-20'
+date: '2024-07-10'
 title: 'Toto – AI Learning Companion'
 github: 'https://github.com/radatta/TOTO'
 external: 'https://devpost.com/software/toto-jlw31n'

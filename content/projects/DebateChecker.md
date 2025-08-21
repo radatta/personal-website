@@ -1,8 +1,8 @@
 ---
-date: '2024-10-01'
+date: '2025-05-31'
 title: 'Real-Time Debate Checker'
 github: 'https://github.com/radatta/debate-checker'
-external: ''
+external: 'https://debate-checker.vercel.app'
 tech:
   - Next.js
   - React

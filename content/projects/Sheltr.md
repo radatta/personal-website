@@ -2,7 +2,7 @@
 date: '2025-02-01'
 title: 'Sheltr - H4H 2025 Winner'
 github: 'https://github.com/Tabadia/shelter-finder'
-external: ''
+external: 'https://sheltr.help/'
 tech:
   - FastAPI
   - AWS DynamoDB

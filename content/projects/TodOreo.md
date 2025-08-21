@@ -2,7 +2,7 @@
 date: '2024-03-25'
 title: 'TodOreo'
 github: 'https://github.com/radatta/todoreo'
-external: ''
+external: 'https://todoreo.vercel.app'
 tech:
   - Next.js
   - React

@@ -2,7 +2,7 @@
 date: '2021-03-1'
 title: 'Imaginary Ticketing'
 github: 'https://github.com/radatta/ImaginaryTicketing/tree/main'
-external: ''
+external: 'https://discord.gg/ctf'
 tech:
   - Python
   - Discord.py

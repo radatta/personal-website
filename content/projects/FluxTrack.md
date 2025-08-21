@@ -1,8 +1,8 @@
 ---
-date: '2024-05-20'
+date: '2025-06-07'
 title: 'FluxTrack'
 github: 'https://github.com/radatta/flux-track'
-external: ''
+external: 'https://flux-track.vercel.app'
 tech:
   - Next.js
   - React

@@ -2,7 +2,7 @@
 date: '2023-07-01'
 title: 'Seventeen30'
 github: 'https://github.com/radatta/seventeen30'
-external: ''
+external: 'https://seventeen30.vercel.app'
 tech:
   - Next.js
   - React

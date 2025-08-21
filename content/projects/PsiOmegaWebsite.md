@@ -1,8 +1,8 @@
 ---
-date: '2023-09-10'
+date: '2025-04-15'
 title: 'Psi Omega Chapter Website'
 github: 'https://github.com/radatta/psi-omega-website'
-external: ''
+external: 'https://scuakpsi.com'
 tech:
   - Next.js
   - React
