@@ -1,9 +1,9 @@
 ---
 date: '2025-01-01'
-title: 'Co-Founder & Software Engineer'
+title: 'Software Engineering Intern'
 company: 'Milio'
 location: 'Santa Clara, CA'
-range: 'Dec 2024 - Mar 2025'
+range: 'December 2024 - March 2025'
 url: 'https://www.milio.shop/'
 ---
 

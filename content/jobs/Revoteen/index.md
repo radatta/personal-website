@@ -1,6 +1,6 @@
 ---
 date: '2022-07-01'
-title: 'Software Engineer'
+title: 'Software Engineering Intern'
 company: 'Revoteen'
 location: 'San Ramon, CA'
 range: 'July 2022 - July 2024'

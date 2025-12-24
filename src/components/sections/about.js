@@ -136,8 +136,9 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Rahul and I enjoy creating things that live on the internet. My
-              interest in software development started during my early years at Santa Clara
-              University, where I discovered my passion for building digital experiences.
+              interest in software development started when I was introduced to the Raspberry Pi 3B+
+              in elementary school, and since then I've been hooked on building things that live on
+              the internet.
             </p>
 
             <p>

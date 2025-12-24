@@ -1,9 +1,9 @@
 ---
 date: '2025-04-01'
-title: 'Full Stack AI Engineer'
+title: 'Software Engineering Intern'
 company: 'MathGPT'
 location: 'Santa Clara, CA'
-range: 'April 2025 - Present'
+range: 'April - June 2025'
 url: 'https://math-gpt.org'
 ---
 

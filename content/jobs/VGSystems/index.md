@@ -1,6 +1,6 @@
 ---
 date: '2023-06-01'
-title: 'AI/ML Intern'
+title: 'Software Engineering Intern'
 company: 'VG Systems'
 location: 'Quantico, VA'
 range: 'June - September 2023'

@@ -4,7 +4,7 @@ title: 'Data Science Intern'
 company: 'Santa Clara Sports Performance'
 shortCompany: 'SCU Sports'
 location: 'Santa Clara, CA'
-range: 'January 2025 - Present'
+range: 'January - April 2025'
 url: 'https://santaclara.prestosports.com/information/SportsPerformance/index'
 ---
 
