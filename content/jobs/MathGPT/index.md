@@ -1,7 +1,7 @@
 ---
 date: '2025-04-01'
 title: 'Software Engineering Intern'
-company: 'MathGPT'
+company: 'MathGPT (10M+ users)'
 location: 'Santa Clara, CA'
 range: 'April - June 2025'
 url: 'https://math-gpt.org'

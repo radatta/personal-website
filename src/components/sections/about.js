@@ -144,8 +144,8 @@ const About = () => {
             <p>
               Currently, I'm studying Computer Science with minors in Mathematics & AI at Santa
               Clara University, working as a Full Stack AI Engineer at{' '}
-              <a href="https://mathgpt.com/">MathGPT</a>, an AI-powered education platform, and
-              serving as a Data Science Intern at{' '}
+              <a href="https://mathgpt.com/">MathGPT (10M+ users)</a>, an AI-powered education
+              platform, and serving as a Data Science Intern at{' '}
               <a href="https://santaclara.prestosports.com/information/SportsPerformance/index">
                 Santa Clara Sports Performance
               </a>

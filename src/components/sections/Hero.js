@@ -66,8 +66,9 @@ const Hero = () => {
     <>
       <p>
         I'm an AI/ML engineer currently building large language model (LLM) solutions as a Full
-        Stack AI Engineer at MathGPT. My work focuses on designing, deploying, and optimizing
-        machine learning pipelines and intelligent products that solve real-world problems at scale.
+        Stack AI Engineer at MathGPT (10M+ users). My work focuses on designing, deploying, and
+        optimizing machine learning pipelines and intelligent products that solve real-world
+        problems at scale.
       </p>
     </>
   );
